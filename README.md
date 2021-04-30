@@ -64,7 +64,7 @@
  <summary>⚡ <b>Recent Github Activity</b></summary>
 
 <!--START_SECTION:activity-->
-
+<!--
 1. ❗️ Closed issue [#3086](https://github.com/TesseractCoding/NeoAlgo/issues/3086) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
 2. 🗣 Commented on [#3086](https://github.com/TesseractCoding/NeoAlgo/issues/3086) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
 3. 🗣 Commented on [#471](https://github.com/sairish2001/MakesMathEasy/issues/471) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
@@ -72,7 +72,9 @@
 5. ❗️ Opened issue [#137](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend/issues/137) in [Girl-Code-It/Opportunity-Calendar-Frontend](https://github.com/Girl-Code-It/Opportunity-Calendar-Frontend)
 <!--END_SECTION:activity-->
 
-</details>
+
+</details> 
+
 
 <details>
   <br />
