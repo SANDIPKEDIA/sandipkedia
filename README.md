@@ -25,7 +25,7 @@
 
 <p align="center">
 <a href="http://www.linkedin.com/in/sandip-kedia-aa1341196" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="sandipkedia" /></a>
-<a href="https://github.com/sandipkedia" target="blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="sandipkedia" /></a>
+<a href="https://yoursandipkedia.000webhostapp.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="sandipkedia" /></a>
 <a href="https://twitter.com/TheSandY15?s=08" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="sandipkedia" /></a>
 <a href="mailto:sandipkedia1711998@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="sandipkedia" /></a>
 
