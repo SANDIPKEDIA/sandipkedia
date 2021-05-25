@@ -91,7 +91,7 @@
 
 
 <!-- <p align="center">
-<a href="https://t.me/iampavangandhi" target="blank"><img align="center" src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white" alt="karthiknayak98" /></a>
+
 
 <a href="https://twitter.com/TheSandY15?s=08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sandipkedia" height="30" width="40" /></a>
 <a href="http://www.linkedin.com/in/sandip-kedia-aa1341196" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sandipkedia" height="30" width="40" /></a>
