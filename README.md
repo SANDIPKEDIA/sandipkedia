@@ -114,7 +114,7 @@
 [<img src="https://img.shields.io/badge/Twitter-@KarthikNayak98-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter]
 [<img src="https://img.shields.io/badge/Stackoverflow-KarthikNayak98-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow] -->
 
-<!-- Links of Definitions -->
+<!-- Links of Defnitions -->
 
 [linkedin]: http://www.linkedin.com/in/sandip-kedia-aa1341196
 [instagram]: https://www.instagram.com/bdwits_sandy?r=nametag
