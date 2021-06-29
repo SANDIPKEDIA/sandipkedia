@@ -25,7 +25,7 @@
 
 <p align="center">
 <a href="http://www.linkedin.com/in/sandip-kedia-aa1341196" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="sandipkedia" /></a>
-<a href="https://yoursandipkedia.000webhostapp.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="sandipkedia" /></a>
+
 <a href="https://twitter.com/TheSandY15?s=08" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white" alt="sandipkedia" /></a>
 <a href="mailto:sandipkedia1711998@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="sandipkedia" /></a>
 
@@ -64,7 +64,7 @@
  <!-- <summary>⚡ <b>Recent Github Activity</b></summary> -->
 
 <!--START_SECTION:activity-->
-<!--
+<!--<a href="https://yoursandipkedia.000webhostapp.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="sandipkedia" /></a>
 1. ❗️ Closed issue [#3086](https://github.com/TesseractCoding/NeoAlgo/issues/3086) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
 2. 🗣 Commented on [#3086](https://github.com/TesseractCoding/NeoAlgo/issues/3086) in [TesseractCoding/NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
 3. 🗣 Commented on [#471](https://github.com/sairish2001/MakesMathEasy/issues/471) in [sairish2001/MakesMathEasy](https://github.com/sairish2001/MakesMathEasy)
