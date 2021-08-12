@@ -7,7 +7,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 - I'v experinced in **MEAN Stack & Ionic**.
-- I'm currently learninf in **MERN Stack & React Native**.
+- I'm currently learning in **MERN Stack & React Native**.
 - I always like working in 🐧️**Linux** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
