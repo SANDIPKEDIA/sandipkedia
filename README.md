@@ -1,4 +1,4 @@
-# <p align="center">️ Hola!!<img src="https://raw.githubusercontent.com/Karthik-Nayak98/Karthik-Nayak98/master/assets/wave.gif" alt="waving hand" width="30px"> Welcome Sandip Kedia's Github Profile 💻😎 </p>
+# <p align="center">️ Hola!!<img src="https://raw.githubusercontent.com/Karthik-Nayak98/Karthik-Nayak98/master/assets/wave.gif" alt="waving hand" width="20px" height="20px"> Welcome Sandip Kedia's Github Profile 💻😎 </p>
 <h3 align="center">I'm a Fullstack developer from India🇮🇳</h3>
 
 </br>
