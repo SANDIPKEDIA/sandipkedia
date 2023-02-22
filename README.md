@@ -6,8 +6,8 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- I'v experinced in **MEAN Stack & Ionic**.
-- I'm currently learning  **MERN Stack & React Native**.
+- I'v 6 month experinced in **MEAN Stack & Ionic**.
+- I'v 1.8 year+ experinced in **MERN Stack & React Native**.
 - I always like working in 🐧️**Linux** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
@@ -81,8 +81,8 @@
   <br />
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b>Asus Vivobook S14 (i5)</li>
+  	    <li><b>OS:</b>Mac M1</li>
+	    <li><b>Laptop: </b>Mac Air M1</li>
   	    <li><b>Browser: </b> Chrome Web Browser</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b>Linkedin and Twitter.</li>
