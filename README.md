@@ -9,7 +9,7 @@
 - I'v 2.2 year+ experinced in **MERN Stack Development**.
 - I'v experinced in **MEAN Stack & Ionic**.
 - I'v experinced in AWS(Ec2,Lambda,S3).
-- I always like working in 🐧️**Linux** Environment.
+- I always like working in 🐧️**Linux/MAC** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
 </br>
