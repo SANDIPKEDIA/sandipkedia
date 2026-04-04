@@ -6,7 +6,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- I'v 3.5 year+ experinced in **MERN Stack Development**.
+- I'v 5 year+ experinced in **MERN Stack Development**.
 - I'v experinced in **MEAN Stack & Ionic**.
 - Manage 10+ Member Tech Team.
 - I'v experinced in AWS(Ec2,Lambda,S3).
@@ -15,7 +15,7 @@
 
 </br>
 </br>
-<p align="center">
+<p align="center">..
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandipkedia&theme=radical&hide_border=true"/>
 </p>
 </br>
