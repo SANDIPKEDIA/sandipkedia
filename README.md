@@ -14,7 +14,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/─────%20LinkedIn%20─────-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandip-kedia-aa1341196/)
-[![Portfolio](https://img.shields.io/badge/─────%20Portfolio%20─────-7c3aed?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/─────%20Portfolio%20─────-7c3aed?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://sandipdev.vercel.app/)
 [![Gmail](https://img.shields.io/badge/─────%20Email%20Me%20─────-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandipkedia1711998@gmail.com)
 [![GitHub](https://img.shields.io/badge/─────%20GitHub%20─────-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SANDIPKEDIA)
 
@@ -248,7 +248,7 @@ const sandipKedia: Developer = {
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandip-kedia-aa1341196/)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandipkedia1711998@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-7c3aed?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-7c3aed?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://sandipdev.vercel.app/)
 
 📞 **+91-8918569670** &nbsp;|&nbsp; 📍 **Kolkata, India** &nbsp;|&nbsp; 🌐 **Open to Remote**
 
