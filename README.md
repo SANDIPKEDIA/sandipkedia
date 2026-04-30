@@ -1,48 +1,30 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ANIMATED HERO HEADER                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!--  ╔══════════════════════════════════════════════╗  -->
+<!--  ║      ANIMATED SVG HERO — upload hero.svg     ║  -->
+<!--  ║   to your SANDIPKEDIA/sandipkedia repo first  ║  -->
+<!--  ╚══════════════════════════════════════════════╝  -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,30:1a1040,60:2d1b69,100:6d28d9&height=180&section=header&animation=fadeIn"/>
-
-<!-- PROFILE PHOTO with animated border via SVG trick -->
-<a href="https://github.com/SANDIPKEDIA">
-  <img src="https://res.cloudinary.com/dtgarsjof/image/upload/f_auto,q_auto/Me-Crop_nkk9oq"
-       width="160"
-       style="border-radius: 50%; margin-top: -80px;"
-       alt="Sandip Kedia"/>
-</a>
+![Hero](https://raw.githubusercontent.com/SANDIPKEDIA/sandipkedia/main/hero.svg)
 
 <br/>
 
-<!-- ANIMATED NAME -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=36&duration=2000&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=520&height=60&lines=Sandip+Kedia" alt="Sandip Kedia"/>
+<!-- ANIMATED ROLE TYPING -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=🚀+Lead+Full+Stack+Developer+%7C+5%2B+Years+Experience;⚡+MERN+Stack+Architect+%7C+AWS+Cloud+Engineer;👥+Engineering+Team+Lead+%7C+5%2B+Developers+Mentored;🏆+Smart+India+Hackathon+2020+—+National+Winner;🌐+1%2C000%2B+Active+Users+%7C+Tata+Motors+Client)](https://git.io/typing-svg)
 
-<!-- ROLE TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&random=false&width=680&lines=🚀+Senior+Software+Engineer+%7C+MERN+Stack+Architect;⚡+Lead+Full+Stack+Developer+%7C+5%2B+Years;☁️+AWS+Cloud+Engineer+%7C+Team+Lead+of+5%2B+Devs;🏆+Smart+India+Hackathon+2020+National+Winner;🌐+Serving+1%2C000%2B+Users+%7C+Tata+Motors+Client" alt="Roles"/>
+<br/>
 
-<br/><br/>
-
-<!-- LOCATION + STATUS -->
-![Location](https://img.shields.io/badge/📍_Kolkata,_India-1a1040?style=for-the-badge)
-![Status](https://img.shields.io/badge/🟢_Open_to_Senior_%26_Lead_Roles-0f172a?style=for-the-badge)
-![Experience](https://img.shields.io/badge/⚡_5%2B_Years_Experience-1a1040?style=for-the-badge)
-
-<br/><br/>
-
-<!-- SOCIAL LINKS -->
+<!-- SOCIAL BADGES -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandipkedia)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SANDIPKEDIA)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandipkedia1711998@gmail.com)
-[![Phone](https://img.shields.io/badge/+91--8918569670-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918918569670)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandipkedia1711998@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/+91--8918569670-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918918569670)
 
 <br/>
 
-<!-- PROFILE VIEWS -->
 ![Profile Views](https://komarev.com/ghpvc/?username=SANDIPKEDIA&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/SANDIPKEDIA?style=for-the-badge&color=a78bfa&labelColor=1e1b4b&label=FOLLOWERS)](https://github.com/SANDIPKEDIA)
+[![followers](https://img.shields.io/github/followers/SANDIPKEDIA?style=for-the-badge&color=a78bfa&labelColor=1e1b4b&label=FOLLOWERS)](https://github.com/SANDIPKEDIA)
 
 </div>
 
@@ -52,11 +34,12 @@
 
 ## 🧬 &nbsp;`< About Me />`
 
-<img align="right" src="https://res.cloudinary.com/dtgarsjof/image/upload/w_220,h_220,c_fill,g_face,r_max,f_auto,q_auto/Me-Crop_nkk9oq" width="200" alt="Sandip Kedia"/>
+<img align="right" src="https://res.cloudinary.com/dtgarsjof/image/upload/w_200,h_200,c_fill,g_face,r_max,f_auto,q_auto/Me-Crop_nkk9oq" width="180" alt="Sandip Kedia"/>
 
 ```typescript
 const sandipKedia = {
 
+  name       : "Sandip Kedia",
   role       : "Lead Full Stack Developer",
   location   : "📍 Kolkata, India",
   experience : "5+ years",
@@ -67,8 +50,8 @@ const sandipKedia = {
     since    : "July 2024 → Present 🟢",
   },
 
-  stack      : ["MongoDB","Express","React","Node"],
-  cloud      : ["AWS EC2","S3","Nginx","Cloudflare"],
+  stack      : ["MongoDB","Express.js","React.js","Node.js"],
+  cloud      : ["AWS EC2","S3","Nginx","Cloudflare CDN"],
   mobile     : ["React Native"],
 
   impact     : {
@@ -79,6 +62,7 @@ const sandipKedia = {
   },
 
   trophy     : "🏆 Smart India Hackathon 2020 Winner",
+  education  : "MCA — GD Goenka University (7.5+ CGPA)",
   philosophy : "Code with purpose. Ship with confidence.",
 
 };
@@ -92,30 +76,9 @@ const sandipKedia = {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/5%2B-6d28d9?style=for-the-badge&logoColor=white" /><br/>
-<sub><b>Years Experience</b></sub>
-</td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/1%2C000%2B-0891b2?style=for-the-badge&logoColor=white" /><br/>
-<sub><b>Active Users Served</b></sub>
-</td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/35%25_Faster-16a34a?style=for-the-badge&logoColor=white" /><br/>
-<sub><b>Load Time Reduced</b></sub>
-</td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/5%2B_Devs-dc2626?style=for-the-badge&logoColor=white" /><br/>
-<sub><b>Engineers Led</b></sub>
-</td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/Fortune_500-f59e0b?style=for-the-badge&logoColor=white" /><br/>
-<sub><b>Enterprise Clients</b></sub>
-</td>
-</tr>
-</table>
+| 🗓️ Experience | 👥 Users Served | ⚡ Load Time Cut | 🧑‍💻 Team Led | 🏢 Clients |
+|:---:|:---:|:---:|:---:|:---:|
+| **5+ Years** | **1,000+** | **−35%** | **5+ Devs** | **Fortune 500** |
 
 </div>
 
@@ -143,13 +106,12 @@ const sandipKedia = {
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-2563EB?style=for-the-badge&logo=serverless&logoColor=white)
-![SSR](https://img.shields.io/badge/Server_Side_Rendering-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ☁️ Cloud · DevOps · Infrastructure
+### ☁️ Cloud · DevOps
 ![AWS](https://img.shields.io/badge/AWS_EC2_%26_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
@@ -166,40 +128,40 @@ const sandipKedia = {
 ![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
-### 🔧 Tools & Workflow
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Agile/Scrum](https://img.shields.io/badge/Agile_%7C_Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile_%7C_Scrum-009FDA?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💼 &nbsp;Professional Journey
+## 💼 &nbsp;Professional Timeline
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  🟢  PRESENT   Senior Software Engineer                         │
-│      Jul 2024 → Now   ·   Sociohood Technologies · Kolkata      │
-├─────────────────────────────────────────────────────────────────┤
-│  🔵  3 YEARS   Senior Software Engineer                         │
-│      Jul 2021 → Jun 2024   ·   Technixia Automation · Kolkata   │
-│      → 1,000+ users  ·  AWS infra  ·  Team of 5+  ·  -35% load │
-├─────────────────────────────────────────────────────────────────┤
-│  🟣  INTERN    Software Developer Intern                        │
-│      Jan 2021 → Jun 2021   ·   Go Drazy · Noida                 │
-│      → React.js  ·  Node.js  ·  E-commerce platform             │
-└─────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────┐
+│  🟢  NOW     Senior Software Engineer                               │
+│              Jul 2024 → Present · Sociohood Technologies · Kolkata  │
+├─────────────────────────────────────────────────────────────────────┤
+│  🔵  3 YRS   Senior Software Engineer                               │
+│              Jul 2021 → Jun 2024 · Technixia Automation · Kolkata   │
+│              ↳ 1,000+ users · AWS · 5+ Team · −35% load time        │
+├─────────────────────────────────────────────────────────────────────┤
+│  🟣  INTERN  Software Developer Intern                              │
+│              Jan 2021 → Jun 2021 · Go Drazy · Noida                 │
+│              ↳ React.js · Node.js · E-commerce platform             │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
-### 🟢 Senior Software Engineer — Sociohood Technologies · Kolkata
+### 🟢 &nbsp;Senior Software Engineer — Sociohood Technologies · Kolkata
 > **Jul 2024 – Present**
 
 - Leading full-stack product engineering for the **Sociohood** platform
@@ -207,21 +169,21 @@ const sandipKedia = {
 
 ---
 
-### 🔵 Senior Software Engineer — Technixia Automation · Kolkata
+### 🔵 &nbsp;Senior Software Engineer — Technixia Automation · Kolkata
 > **Jul 2021 – Jun 2024 · 3 Years**
 
-- 🏗️ Architected end-to-end apps serving **1,000+ active users** incl. **Tata Motors**
+- 🏗️ Architected apps serving **1,000+ active users** incl. **Tata Motors**
 - 👥 Led **5+ developers** — code reviews, standards, mentoring
-- ☁️ Deployed scalable infra on **AWS EC2 & S3** with Nginx + Cloudflare CDN/DDoS
+- ☁️ Deployed on **AWS EC2 & S3** with Nginx + Cloudflare CDN / DDoS protection
 - ⚡ **Cut load time by 35%** via lazy loading, code splitting & DB query optimization
 
 ---
 
-### 🟣 Software Developer Intern — Go Drazy · Noida
+### 🟣 &nbsp;Software Developer Intern — Go Drazy · Noida
 > **Jan 2021 – Jun 2021**
 
-- Frontend & backend development for an **e-commerce platform** (React.js + Node.js)
-- Agile sprints, stand-ups and collaborative code reviews
+- Frontend & backend for an **e-commerce platform** (React.js + Node.js)
+- Agile sprints, daily stand-ups, collaborative code reviews
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -231,11 +193,11 @@ const sandipKedia = {
 
 | # | Project | Live | Stack | Highlights |
 |---|---------|------|-------|------------|
-| 🏘️ | **Society Management Dashboard** | [dashboard.sociohood.com](https://dashboard.sociohood.com) | MERN · React Native | Multi-tenant · Tata Motors · Visitor tracking · Real-time comms |
+| 🏘️ | **Society Management Dashboard** | [dashboard.sociohood.com](https://dashboard.sociohood.com) | MERN · React Native | Tata Motors · Visitor tracking · Real-time comms |
 | 🏢 | **Business Management Portal** | [bizhood.in](https://www.bizhood.in) | MERN · React Native | Task mgmt · Attendance · Salary · Stock |
-| 🏥 | **Pharmacy & Clinic System** | [muktihealthcare.in](https://www.muktihealthcare.in) | MEAN · Angular TS | Doctor scheduling · Appts · Home delivery |
-| 🏠 | **Smart Automation Dashboard** | — | MERN · IoT · Alexa | Real-time device mgmt · Voice control · AWS |
-| 📦 | **Inventory & Warehouse System** | — | Angular · Node.js | Enterprise stock · PO mgmt · Analytics |
+| 🏥 | **Pharmacy & Clinic System** | [muktihealthcare.in](https://www.muktihealthcare.in) | MEAN · Angular TS | Scheduling · Appointments · Home delivery |
+| 🏠 | **Smart Automation Dashboard** | — | MERN · IoT · Alexa | Real-time devices · Voice control · AWS EC2 |
+| 📦 | **Inventory & Warehouse System** | — | Angular · Node.js | Stock tracking · PO mgmt · Analytics |
 
 </div>
 
@@ -245,9 +207,9 @@ const sandipKedia = {
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=SANDIPKEDIA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=06b6d4&text_color=94a3b8&ring_color=6d28d9" alt="Sandip GitHub Stats"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=SANDIPKEDIA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=06b6d4&text_color=94a3b8&ring_color=6d28d9"/>
 &nbsp;
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDIPKEDIA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=94a3b8" alt="Top Languages"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANDIPKEDIA&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=94a3b8"/>
 
 </div>
 
@@ -276,10 +238,10 @@ const sandipKedia = {
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
 ║  🏆  SMART INDIA HACKATHON 2020 — NATIONAL WINNER                   ║
-║      Led GD Goenka University team to national victory as Team Lead  ║
+║      Led GD Goenka University team to victory as Team Lead           ║
 ╠══════════════════════════════════════════════════════════════════════╣
 ║  🚀  ENTERPRISE SAAS TRUSTED BY FORTUNE 500                          ║
-║      Production platforms adopted by Tata Motors & clients nationwide║
+║      Production platforms adopted by Tata Motors & enterprise clients║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -290,45 +252,27 @@ const sandipKedia = {
 ## 🎓 &nbsp;Education
 
 ```
-🎓  Master of Computer Applications (MCA)              2018 – 2021
+🎓  Master of Computer Applications (MCA)               2018 – 2021
     GD Goenka University · Gurgaon, Haryana
     CGPA: 7.5+   |   🏆 Smart India Hackathon 2020 Winner (Team Lead)
 
-🎓  Bachelor of Computer Applications (BCA)            2015 – 2018
+🎓  Bachelor of Computer Applications (BCA)             2015 – 2018
     Siliguri Institute of Technology · Siliguri, West Bengal
     CGPA: 7.2
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🖥️ &nbsp;Setup & Environment
-
-```yaml
-OS         : macOS (Mac Air M1)  🍎
-Editor     : VS Code  💻
-Browser    : Chrome
-Approach   : Linux / Mac Environment  🐧
-Methodology: Agile · Scrum · SDLC
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📬 &nbsp;Let's Connect & Build Together
+## 📬 &nbsp;Let's Connect
 
 <div align="center">
 
-<img src="https://res.cloudinary.com/dtgarsjof/image/upload/w_100,h_100,c_fill,g_face,r_max,f_auto,q_auto/Me-Crop_nkk9oq" width="80" alt="Sandip Kedia"/>
-
-<br/><br/>
-
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandipkedia)
 [![Email](https://img.shields.io/badge/sandipkedia1711998%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandipkedia1711998@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-6d28d9?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-6d28d9?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](#)
 [![WhatsApp](https://img.shields.io/badge/%2B91--8918569670-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918918569670)
 
-<br/>
-
-📍 **Kolkata, India** &nbsp;·&nbsp; 🌐 **Open to Remote** &nbsp;·&nbsp; 💼 **Open to Senior & Lead Roles**
+**📍 Kolkata, India &nbsp;·&nbsp; 🌐 Open to Remote &nbsp;·&nbsp; 💼 Open to Senior & Lead Roles**
 
 </div>
 
@@ -338,15 +282,9 @@ Methodology: Agile · Scrum · SDLC
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_header.svg"/>
 
-<br/>
-
 *"Code with purpose. Lead with empathy. Ship with confidence."*
 
-<br/>
-
 **⭐ If you find my work useful — drop a star! It fuels the late-night commits. 🚀**
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:2d1b69,100:0d0d1a&height=130&section=footer&animation=fadeIn"/>
 
